@@ -1,0 +1,12 @@
+.main_img{
+    border: 3px dashed red;
+    height: 100px;
+}
+.picture{
+    border: 1px solid black;
+    width: 20%;
+    display: inline-block;
+
+    vertical-align: center center;
+    text-align: center;  
+}
